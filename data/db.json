@@ -1,0 +1,46 @@
+{
+  "notes": [
+    {
+      "title": "Yoshi's birthday bash",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "reminders",
+      "id": 1
+    },
+    {
+      "title": "Complete my ninja training",
+      "details": "Tellus id interdum velit laoreet id donec ultrices tincidunt arcu. Purus gravida quis blandit turpis. Cras ornare arcu dui vivamus arcu felis bibendum ut. Congue mauris rhoncus aenean vel elit scelerisque. Nam at lectus urna duis convallis. Sem fringilla ut morbi tincidunt augue. Vestibulum lorem sed risus ultricies. At lectus urna duis convallis convallis tellus id. Erat pellentesque adipiscing commodo elit. Purus viverra accumsan in nisl. Vestibulum morbi blandit cursus risus at ultrices mi. Montes nascetur ridiculus mus mauris vitae ultricies leo integer. Tincidunt dui ut ornare lectus sit. Sit amet venenatis urna cursus eget nunc scelerisque viverra. Eu turpis egestas pretium aenean. Aliquam malesuada bibendum arcu vitae elementum curabitur. Mauris in aliquam sem fringilla. Elementum eu facilisis sed odio morbi quis commodo odio.",
+      "category": "work",
+      "id": 2
+    },
+    {
+      "title": "Order a pizza!",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "title": "Pay the milkman",
+      "details": "blah blah blah",
+      "category": "money",
+      "id": 4
+    },
+    {
+      "title": "Mario's dinner",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "reminders",
+      "id": 5
+    },
+    {
+      "title": "Order a soda!",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Facilisis leo vel fringilla est ullamcorper eget nulla. Eros donec ac odio tempor. Cursus metus aliquam eleifend mi in nulla posuere. Nunc id cursus metus aliquam. Ac felis donec et odio pellentesque diam volutpat commodo. Interdum varius sit amet mattis vulputate enim. Ut enim blandit volutpat maecenas volutpat blandit aliquam. Vel quam elementum pulvinar etiam non. Faucibus turpis in eu mi. Sapien et ligula ullamcorper malesuada proin. Enim sed faucibus turpis in eu mi bibendum neque. Viverra justo nec ultrices dui sapien eget. Facilisi nullam vehicula ipsum a arcu cursus.",
+      "category": "todos",
+      "id": 6
+    },
+    {
+      "title": "ninja training completed",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+      "category": "work",
+      "id": 7
+    }
+  ]
+}
